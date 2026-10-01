@@ -1,0 +1,15 @@
+#pragma once
+void cashier();
+void reports();
+void invmenu();
+void bookinfo();
+void lookUpBook();
+void addBook();
+void editBook();
+void deleteBook();
+void repListing();
+void repWholesale();
+void repRetail();
+void repQty();
+void repCost();
+void repAge();

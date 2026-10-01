@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\LDasilva_CW_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90305E7A-573D-4925-805A-33D0B6D8E6F7}|LDasilva_CW_2\\LDasilva_CW_2.vcxproj|C:\\Dev\\LDasilva_CW_2\\LDasilva_CW_2\\LDasilva_CW_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90305E7A-573D-4925-805A-33D0B6D8E6F7}|LDasilva_CW_2\\LDasilva_CW_2.vcxproj|solutionrelative:LDasilva_CW_2\\LDasilva_CW_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LDasilva_CW_2.cpp",
+              "DocumentMoniker": "C:\\Dev\\LDasilva_CW_2\\LDasilva_CW_2\\LDasilva_CW_2.cpp",
+              "RelativeDocumentMoniker": "LDasilva_CW_2\\LDasilva_CW_2.cpp",
+              "ToolTip": "C:\\Dev\\LDasilva_CW_2\\LDasilva_CW_2\\LDasilva_CW_2.cpp",
+              "RelativeToolTip": "LDasilva_CW_2\\LDasilva_CW_2.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-09T13:38:35.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
